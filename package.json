@@ -22,11 +22,11 @@
   "dependencies": {
     "ncp": "~0.5.0",
     "async": "~0.2.10",
-    "merge": "~1.1.2",
-    "nw": "michalc/npm-installer#file-url"
+    "merge": "~1.1.2"
   },
   "peerDependencies": {
-    "karma": ">=0.9"
+    "karma": ">=0.9",
+    "nw": "michalc/npm-installer#file-url"
   },
   "license": "MIT",
   "devDependencies": {
